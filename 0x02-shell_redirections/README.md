@@ -35,7 +35,11 @@ Shell redirections
 15. COUNT THAT WORD > Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 
 
-16. 
+16. WHAT'S NEXT? > Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+
+
+17. 
+ 
 
 
 
