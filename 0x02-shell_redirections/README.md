@@ -47,6 +47,10 @@ Shell redirections
 
 20. WITHOUT C, YOU WOULD LIVE IN HIAGO > Create a script that removes all letters c and C from input.
 
+21. ESREVER > Write a script that reverse its input.
+
+22. 
+
 
 
 
