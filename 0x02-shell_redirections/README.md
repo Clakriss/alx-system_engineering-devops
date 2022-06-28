@@ -38,8 +38,12 @@ Shell redirections
 16. WHAT'S NEXT? > Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 
 
-17. 
- 
+17. I HATE BINS > Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+18. 
+
+
+
 
 
 
