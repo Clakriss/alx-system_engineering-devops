@@ -42,7 +42,11 @@ Shell redirections
 
 18. LETTERS ONLY PLEASE > Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 
-19. 
+19. A TO Z > Replace all characters A and c from input to Z and e respectively.
+
+
+20. 
+
 
 
 
