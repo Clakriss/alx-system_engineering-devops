@@ -23,7 +23,11 @@ Shell redirections
 
 11.DONT JUST COUNT YOUR DIRECTORIES, MAKE YOUR DIRECTORIES COUNT > Write a script that counts the number of directories and sub-directories in the current directory.
 
-12.
+12.WHAT'S NEW? > Create a script that displays the 10 newest files in the current directory.
+
+
+
+
 
 
 
