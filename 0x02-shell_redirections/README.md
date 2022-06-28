@@ -49,7 +49,11 @@ Shell redirections
 
 21. ESREVER > Write a script that reverse its input.
 
-22. 
+22. DJ CUT KILLER > Write a script that displays all users and their home directories, sorted by users.
+
+
+
+ 
 
 
 
