@@ -22,6 +22,11 @@
 
 11. > Write a script that converts a number from base 2 to base 10.
 
+12. COMBINATION > Create a script that prints all possible combinations of two letters, except oo.
+
+
+
+
 
 
 
