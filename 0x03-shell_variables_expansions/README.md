@@ -12,6 +12,10 @@
 
 6. LOCAL VARIABLE > Create a script that creates a new local variable.Name: BEST Value: School
 
+7. GLOBAL VARIABLE > Create a script that creates a new global variable.
+
+
+
 
 
 
