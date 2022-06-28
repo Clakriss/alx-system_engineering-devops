@@ -10,7 +10,7 @@
  
 5. LOCAL VARIABLES > Create a script that lists all local variables and environment variables, and functions.
 
-
+6. LOCAL VARIABLE > Create a script that creates a new local variable.Name: BEST Value: School
 
 
 
