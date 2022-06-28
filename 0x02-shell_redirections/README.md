@@ -29,7 +29,15 @@ Shell redirections
 13.BEING UNIQUE IS BETTER THAN BEING PERFECT > Create a script that takes a list of words as input and prints only words that appear exactly once.
 
 
-14.
+14.IT MUST BE IN THAT FILE > Display lines containing the pattern “root” from the file /etc/passwd
+
+
+15. COUNT THAT WORD > Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+
+
+16. 
+
+
 
 
 
