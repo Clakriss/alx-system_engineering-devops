@@ -26,6 +26,10 @@ Shell redirections
 12.WHAT'S NEW? > Create a script that displays the 10 newest files in the current directory.
 
 
+13.BEING UNIQUE IS BETTER THAN BEING PERFECT > Create a script that takes a list of words as input and prints only words that appear exactly once.
+
+
+14.
 
 
 
