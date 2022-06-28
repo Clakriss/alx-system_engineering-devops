@@ -7,6 +7,11 @@
 3. IF THE PATH BE BEAUTIFUL, LET US NOT ASK WHERE IT LEADS > Create a script that counts the number of directories in the PATH.
 
 4. GLOBAL VARIABLES > Create a script that lists environment variables.
+ 
+5. LOCAL VARIABLES > Create a script that lists all local variables and environment variables, and functions.
+
+
+
 
 
 
