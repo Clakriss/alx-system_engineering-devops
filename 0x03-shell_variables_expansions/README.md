@@ -18,6 +18,7 @@
 
 9. DIVIDE AND RULE > Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 
+10. LOVE IS AN ANTERIOR TO LIFE, POSTERIOR TO DEATH, INITIAL OF CREATION, AND THE EXPONENT OF BREATH
 
 
 
