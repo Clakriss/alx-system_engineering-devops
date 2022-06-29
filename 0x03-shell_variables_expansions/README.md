@@ -32,6 +32,10 @@
 
 16. THE EGGS OF THE BROOD NEED TO BE AN ODD NUMBER > Write a script that prints every other line from the input, starting with the first line.
 
+17. JUST ADD WATER AND STIR > Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+
+
+
 
 
 
