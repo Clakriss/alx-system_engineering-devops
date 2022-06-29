@@ -30,6 +30,10 @@
 
 15. EVERYONE IS A PROPONENT OF STRONG ENCRYPTION > Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
 
+16. THE EGGS OF THE BROOD NEED TO BE AN ODD NUMBER > Write a script that prints every other line from the input, starting with the first line.
+
+
+
 
 
 
