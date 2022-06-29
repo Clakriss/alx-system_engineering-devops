@@ -28,6 +28,10 @@
 
 14. DECIMAL TO HEXADECIMAL > Write a script that converts a number from base 10 to base 16.
 
+15. EVERYONE IS A PROPONENT OF STRONG ENCRYPTION > Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+
+
 
 
 
